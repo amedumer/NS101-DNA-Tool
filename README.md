@@ -13,5 +13,5 @@ RNA | Coding Strand
 ### Possible Improvements
 
 - Usage of wrappers
-- Conversion from aminoacids to possible DNA/RNA combinations
+- Conversion from aminoacids to possible DNA/RNA combinations (Currently working on it)
 
