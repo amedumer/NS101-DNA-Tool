@@ -10,3 +10,8 @@ Coding Strand | RNA
 Template Strand | RNA
 RNA | Coding Strand
 
+### Possible Improvements
+
+- Usage of wrappers
+- Conversion from aminoacids to possible DNA/RNA combinations
+
