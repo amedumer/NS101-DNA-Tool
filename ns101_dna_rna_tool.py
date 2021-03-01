@@ -44,10 +44,10 @@ def transcription(chr, toRna):
         return 'T'
 
     elif chr == 'T':
-      return 'A'
+      return 'C'
 
     elif chr == 'G':
-      return 'C'
+      return 'A'
 
     elif chr == 'C':
       return 'G' 
@@ -211,6 +211,7 @@ There are several options offered which you can find below.
 
 print("Hi, and welcome transcription/translation machine!")
 
-while menu():
-  continue
+if __name__ == "__main__":
+    while menu():
+        continue
 
