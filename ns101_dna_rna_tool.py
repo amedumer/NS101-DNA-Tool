@@ -107,7 +107,7 @@ def CStoRNA():
   rna = str(functools.reduce(lambda x,y: x + y, rnaList ))
   
   print("")
-  print("Coding Strand is: ")
+  print("Coding Strandasdasdasdasd is: ")
   printStr(dna)
   print("Template Strand is: ")
   printStr(template)
