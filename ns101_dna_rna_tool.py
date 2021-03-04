@@ -44,10 +44,10 @@ def transcription(chr, toRna):
         return 'T'
 
     elif chr == 'T':
-      return 'C'
+      return 'A'
 
     elif chr == 'G':
-      return 'A'
+      return 'C'
 
     elif chr == 'C':
       return 'G' 
